@@ -1,0 +1,116 @@
+body{
+    width: 1000px;
+    background-color: white;
+}
+
+.col-md-3{
+    padding: 20px 15px;
+    width: 10px;
+    height: 60px;
+    border: 5px solid white;
+    text-align: center;
+    background-color: #f55f45;
+    border-radius: 9px;
+    color: #f18e7a;
+}
+.col-md-3 a{
+   color: white;
+}
+.col-md-9{
+    padding: 15px 190px;
+    width: 10px;
+    height: 60px;
+    border: 5px solid white;
+    text-align: center;
+    background-color: #f55f45;
+    border-radius: 9px;
+    color: #f18e7a;
+}
+.col-md-9 a{
+    color: white;
+}
+.col-md-12{
+    padding: 15px 25px;
+    width: 10px;
+    height: 60px;
+    border: 5px solid white;
+    text-align: center;
+    background-color: #f55f45;
+    border-radius: 9px;
+    color: #f18e7a;
+}
+.col-md-12 a{
+    color: white;
+}
+.col-md-4{
+    padding: 30px 25px;
+    width: 10px;
+    height: 60px;
+    border: 5px solid white;
+    text-align: center;
+    background-color: #f55f45;
+    border-radius: 9px;
+    color: #f18e7a;
+}
+.col-md-4 a{
+    color: white;
+}
+.col-md-6{
+    padding: 10px 15px;
+    width: 10px;
+    height: 60px;
+    border: 5px solid white;
+    text-align: center;
+    background-color: #f55f45;
+    border-radius: 9px;
+    color: #f18e7a;
+}
+.col-md-6 a{
+    color: white;
+}
+.col-md-5{
+    padding: 10px -150px;
+    width: 10px;
+    height: 60px;
+    border: 5px solid white;
+    text-align: center;
+    background-color: #f55f45;
+    border-radius: 9px;
+    color: #f18e7a;
+}
+.col-md-5 a{
+    color: white;
+}
+.col-md-7{
+    padding: 10px -150px;
+    width: 10px;
+    height: 60px;
+    border: 5px solid white;
+    text-align: center;
+    background-color: #f55f45;
+    border-radius: 9px;
+    color: #f18e7a;
+}
+.col-md-7 a{
+    color: white;
+}
+
+.item1{
+    width: 15px;
+    height: 120px;
+}
+.item2{
+    width: 15px;
+    height: 40px;
+}
+.dl{
+    width: 10px;
+    border: 5px solid white;
+    text-align: center;
+    background-color: #f55f45;
+    border-radius: 9px;
+    color: #f18e7a;
+    height: 45px;
+    margin-top: 45px;
+}
+
